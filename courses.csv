@@ -1,0 +1,13 @@
+id,teacher_id,title,type,total_sessions,access_days,price,is_active,enrolled_count
+1,1,Chem Foundation 1,onsite,8.0,,4800,1,
+2,1,Chem Foundation 2,onsite,8.0,,4800,1,
+3,2,Chem Advanced 1,onsite,8.0,,5200,1,
+4,2,Chem Advanced 2,onsite,8.0,,5200,1,
+5,3,Chem Master 1,onsite,8.0,,5600,1,
+6,3,Chem Master 2,onsite,8.0,,5600,1,
+7,1,Chem Online Foundation 1,recorded,,90.0,2000,1,
+8,1,Chem Online Foundation 2,recorded,,90.0,2000,1,
+9,2,Chem Online Advanced 1,recorded,,90.0,2400,1,
+10,2,Chem Online Advanced 2,recorded,,90.0,2400,1,
+11,3,Chem Online Master 1,recorded,,90.0,2800,1,
+12,3,Chem Online Master 2,recorded,,90.0,2800,1,
